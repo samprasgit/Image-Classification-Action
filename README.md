@@ -6,14 +6,3 @@
 
 项目代码：https://github.com/TommyZihao/Train_Custom_Dataset
 
-
-
-```python
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:samprasgit/Image-Classification-Action.git
-git push -u origin main
-```
-
